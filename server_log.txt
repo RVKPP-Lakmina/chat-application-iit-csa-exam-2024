@@ -1,0 +1,20 @@
+Jan 16, 2024 9:24:52 AM com.example.practicalexamfinal2024.MultiThreadedChatServer main
+INFO: Server is running and waiting for clients...
+Jan 16, 2024 9:24:58 AM com.example.practicalexamfinal2024.MultiThreadedChatServer main
+INFO: New client connected: /127.0.0.1
+Jan 16, 2024 11:51:19 AM com.example.practicalexamfinal2024.MultiThreadedChatServer main
+INFO: New client connected: /127.0.0.1
+Jan 16, 2024 11:51:48 AM com.example.practicalexamfinal2024.MultiThreadedChatServer main
+INFO: New client connected: /127.0.0.1
+Apr 08, 2024 10:11:04 PM com.example.practicalexamfinal2024.MultiThreadedChatServer main
+INFO: New client connected127.0.0.1
+Apr 08, 2024 10:11:18 PM com.example.practicalexamfinal2024.MultiThreadedChatServer main
+INFO: New client connected127.0.0.1
+Apr 08, 2024 10:12:41 PM com.example.practicalexamfinal2024.MultiThreadedChatServer main
+INFO: New client connected127.0.0.1
+Apr 08, 2024 10:13:02 PM com.example.practicalexamfinal2024.MultiThreadedChatServer main
+INFO: New client connected127.0.0.1
+Apr 08, 2024 10:14:02 PM com.example.practicalexamfinal2024.MultiThreadedChatServer main
+INFO: New client connected127.0.0.1
+Apr 08, 2024 10:14:18 PM com.example.practicalexamfinal2024.MultiThreadedChatServer main
+INFO: New client connected127.0.0.1
